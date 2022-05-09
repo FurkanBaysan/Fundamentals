@@ -23,7 +23,7 @@ namespace Operators
             Console.WriteLine("\t" + "Operator Precedence");
             int firstNum = 1;
             int secondNum = 2;
-            int thirdNum = 3;
+            int thirdNum = 3; 
 
             Console.WriteLine(firstNum + secondNum * thirdNum); // Output:7
             Console.WriteLine("Changing Operator Precedence => Use Parenthesis");
